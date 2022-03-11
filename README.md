@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on JAVA projects...
 - 📫 How to reach me ... dansky123@hotmail.com
 
-Some of my projects: https://dansky-dsmovie.netlify.app/
+Some of my projects: 
+- https://dansky-dsmovie.netlify.app/
 
 <!---
 DanskySantos/DanskySantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
