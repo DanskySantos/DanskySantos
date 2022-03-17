@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on JAVA projects...
 - 📫 How to reach me ... dansky123@hotmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 
 
 Some of my projects: 
