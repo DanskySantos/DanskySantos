@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @DanskySantos...
+- 👋 Hi, I’m @DanskySantos!!  
+- 👋 Welcome to my github!!
+
 - 👀 I’m interested in JAVA opportunities...
 - 🌱 I’m currently learning JAVA, React, and other...
 - 💞️ I’m looking to collaborate on JAVA projects...
 - 📫 How to reach me ... dansky123@hotmail.com
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 
 Some of my projects: 
 - https://dansky-dsmovie.netlify.app/
